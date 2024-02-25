@@ -1,7 +1,23 @@
 body, html {
     margin: 0px;
     background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 canvas {
     display: block;
+}
+/*  .sidebar {
+
+}
+.banner {
+
+} 
+.content{
+    
+} */
+.buttons center button{
+    border: none;
+    color: black;
+    background-color: greenyellow;
 }

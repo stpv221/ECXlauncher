@@ -6,7 +6,7 @@ let tex;
 let light;
 
 function setup() {
-  createCanvas(windowWidth-(windowWidth*0.25), (windowWidth-(windowWidth*0.25))/2, WEBGL);
+  createCanvas(windowWidth-(windowWidth*0.25), (windowWidth-(windowWidth*0.25))/2.5, WEBGL);
   frameRate(40);
   
   angleMode(DEGREES);
