@@ -6,17 +6,13 @@
         <script src="latest-release.js"></script>
     </head>
     <body>
-        <button onclick="launch();">launch test
-        </button>
+        <button onclick="launch();" id="nut">launch test</button>
         <script>
             function launch(){
                 const bod = document.getElementByTagName("body");
+                const but = document.getElementById("nut");
 
-                bod.style.margin = "0px";
-                bod.style.width = "100vw";
-                bod.style.height = "100vh";
-                bod.style.overflow = "hidden";
-                bod.id = "game_frame";
+                but.innerHTML = "working!"
             }
         </script>
     </body>
