@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Eagler launcher</title>
+        <script src="latest-release.js"></script>
+    </head>
+    <body>
+        <button onclick="launch();">launch test
+        </button>
+        <script>
+            function launch(){
+                const bod = document.getElementByTagName("body");
+
+                bod.style.margin = "0px";
+                bod.style.width = "100vw";
+                bod.style.height = "100vh";
+                bod.style.overflow = "hidden";
+                bod.id = "game_frame";
+            }
+        </script>
+    </body>
+</html>
