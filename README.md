@@ -1,0 +1,2 @@
+# EaglerLauncher
+Launcher for EaglerCraft.
