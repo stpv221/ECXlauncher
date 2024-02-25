@@ -3,17 +3,17 @@
     <head>
         <meta charset="utf-8">
         <title>Eagler launcher</title>
-        <script src="latest-release.js"></script>
     </head>
     <body>
-        <button onclick="launch();" id="nut">launch test 2</button>
-        <script>
-            function launch(){
-                const bod = document.getElementByTagName("body");
-                const but = document.getElementById("nut");
+        <button>Click</button>
 
-                but.innerHTML = "working!"
-            }
+        <script>
+           const button = document.querySelector("button");
+
+button.addEventListener("click", (event) => {
+  button.textContent = `Click count: ${event.detail}`;
+});
+
         </script>
     </body>
 </html>
