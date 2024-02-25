@@ -5,15 +5,13 @@
         <title>Eagler launcher</title>
     </head>
     <body>
-        <button>Click</button>
+        <button onclick="launch">Click</button>
 
         <script>
-           const button = document.querySelector("button");
-
-button.addEventListener("click", (event) => {
-  button.textContent = `Click count: ${event.detail}`;
-});
-
+            const but = document.getElementsByTagName("button")
+            function launch(){
+                but.innerHTML = "Working!!"
+            }
         </script>
     </body>
 </html>
