@@ -18,7 +18,9 @@ canvas {
 } */
 .buttons center button{
     border: none;
+
     color: black;
+    font-size: larger;
     background-color: greenyellow;
     width: 200px;
     height: 50px;
