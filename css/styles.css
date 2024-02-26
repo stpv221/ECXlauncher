@@ -7,7 +7,9 @@ body, html {
 canvas {
     display: block;
 }
-
+.sidebar {
+    color: brown;
+}
 .banner {
     width: 75%;
     height: 405px;
@@ -15,9 +17,9 @@ canvas {
 } 
 .buttons center button{
     border: none;
+    border-radius: 10px;
 
     color: black;
-    font-size: large;
     background-color: greenyellow;
     width: 200px;
     height: 50px;
