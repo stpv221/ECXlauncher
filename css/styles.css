@@ -35,7 +35,7 @@ body, html {
     height: 75px;
 }
 .buttons center button{
-    top: 400px;
+    margin-top: -50px;
     border: none;
     font-family: mcFont;
     border-radius: 6px;
