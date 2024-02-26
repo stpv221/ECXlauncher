@@ -20,7 +20,7 @@ canvas {
     padding-top: 40px;
     background-color: rgb(40, 40, 40);
 
-    border: 10px;
+    border: 10px solid;
     border-color: white;
 }
 .banner {
