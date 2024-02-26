@@ -7,15 +7,12 @@ body, html {
 canvas {
     display: block;
 }
-/*  .sidebar {
 
-}
 .banner {
-
+    width: 75%;
+    height: 33%;
+    background-color: aqua;
 } 
-.content{
-    
-} */
 .buttons center button{
     border: none;
 
