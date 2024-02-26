@@ -22,7 +22,7 @@ canvas {
 } 
 .buttons center button{
     border: none;
-    border-radius: 10px;
+    border-radius: 6px;
 
     color: black;
     background-color: greenyellow;
