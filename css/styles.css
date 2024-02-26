@@ -10,6 +10,9 @@ body, html {
 }
 canvas {
     display: block;
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 0px;
 }
 .sidebar {
     height: 100%;
@@ -28,6 +31,11 @@ canvas {
     height: 405px;
     background-color: aqua;
 } 
+.versions {
+    border: 2px solid;
+    border-color: white;
+    margin-left: -50%;
+}
 .buttons center button{
     margin-top: -50px;
     border: none;
