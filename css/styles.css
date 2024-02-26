@@ -8,13 +8,6 @@ body, html {
     font-family: mcFont;
     src: url(/fonts/Minecrafter.Reg.ttf);
 }
-canvas {
-    display: block;
-    position: absolute;
-    z-index: -1;
-    margin-left: 25%;
-    top: 0px;
-}
 .sidebar {
     height: 100%;
     width: 25%;
@@ -30,6 +23,8 @@ canvas {
 .banner {
     width: 100%;
     height: 400px;
+    background-color: aqua;
+    /* background-image: url(""); */
 } 
 .versions {
     border: 2px solid;
