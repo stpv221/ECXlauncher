@@ -21,6 +21,7 @@ canvas {
     background-color: aqua;
 } 
 .buttons center button{
+    margin-top: -50px;
     border: none;
     border-radius: 6px;
 
