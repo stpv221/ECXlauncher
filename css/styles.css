@@ -45,9 +45,11 @@ body, html {
 }
 .version-content {
     box-sizing: border-box;
+    margin-top: -10px;
 }
 .versions p {
     box-sizing: border-box;
+    margin-top: -10px;
 }
 .buttons center button{
     position: absolute;
@@ -65,4 +67,8 @@ body, html {
 .body{
     background-color: rgb(24, 24, 24);
     width: 90%;
+    height: auto;
+}
+.download{
+    font-family: 'Courier New', Courier, monospace;
 }
