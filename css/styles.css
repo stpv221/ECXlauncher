@@ -51,7 +51,7 @@ body, html {
     box-sizing: border-box;
     margin-top: -10px;
 }
-.buttons center a{
+.buttons center button{
     position: absolute;
     top: 380px;
     left: 55%;
