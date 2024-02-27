@@ -37,7 +37,7 @@ body, html {
 
     position: absolute;
     top: 380px;
-    left: 40%;
+    left: 30%;
 }
 .version-content {
     margin-top: 0px;
@@ -48,7 +48,7 @@ body, html {
 .buttons center button{
     position: absolute;
     top: 380px;
-    left: 60%;
+    left: 50%;
     border: none;
     font-family: mcFont;
     border-radius: 6px;
