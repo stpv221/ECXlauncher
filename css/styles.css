@@ -76,7 +76,8 @@ body, html {
 }
 .news{
     box-sizing: border-box;
-    width: 90%;
+    margin: 10px;
+    width: 100%;
 }
 .download{
     font-family: 'Courier New', Courier, monospace;
