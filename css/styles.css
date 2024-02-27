@@ -45,11 +45,9 @@ body, html {
 }
 .version-content {
     box-sizing: border-box;
-    margin-top: -50%;
 }
 .versions p {
     box-sizing: border-box;
-    margin-top: -50%;
 }
 .buttons center button{
     position: absolute;
