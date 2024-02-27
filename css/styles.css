@@ -40,7 +40,7 @@ body, html {
 .buttons center button{
     position: absolute;
     top: 380px;
-    left: 50%;
+    left: 75%;
     border: none;
     font-family: mcFont;
     border-radius: 6px;
