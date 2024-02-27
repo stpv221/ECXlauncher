@@ -34,13 +34,13 @@ body, html {
     height: 75px;
 
     position: absolute;
-    top: 400px;
+    top: 380px;
     left: 50%;
 }
 .buttons center button{
     position: absolute;
-    top: 400px;
-    left: 75%;
+    top: 380px;
+    left: 50%;
     border: none;
     font-family: mcFont;
     border-radius: 6px;
