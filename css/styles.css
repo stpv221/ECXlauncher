@@ -40,15 +40,16 @@ body, html {
     left: 30%;
 }
 .version-content {
+    box-sizing: border-box;
     margin-top: 0px;
 }
 .versions p {
-    margin: 5px;
+    box-sizing: border-box;
 }
 .buttons center button{
     position: absolute;
     top: 380px;
-    left: 60%;
+    left: 55%;
     border: none;
     font-family: mcFont;
     border-radius: 6px;
