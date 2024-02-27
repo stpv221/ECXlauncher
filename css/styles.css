@@ -38,6 +38,9 @@ body, html {
     top: 380px;
     left: 50%;
 }
+.version-content {
+    margin: 0;
+}
 .buttons center button{
     position: absolute;
     top: 380px;
