@@ -68,6 +68,8 @@ body, html {
     background-color: rgb(24, 24, 24);
     width: 80%;
     height: auto;
+
+    margin-left: 12.5%;
 }
 .download{
     font-family: 'Courier New', Courier, monospace;
