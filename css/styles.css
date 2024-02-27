@@ -46,10 +46,12 @@ body, html {
 .version-content {
     box-sizing: border-box;
     margin-top: -10px;
+    margin-left: 10px;
 }
 .versions p {
     box-sizing: border-box;
     margin-top: -10px;
+    margin-left: 10px;
 }
 .buttons center button{
     position: absolute;
