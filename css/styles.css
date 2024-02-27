@@ -45,12 +45,12 @@ body, html {
 }
 .version-content {
     box-sizing: border-box;
-    margin-top: -10px;
+    margin-top: -20px;
     margin-left: 10px;
 }
 .versions p {
     box-sizing: border-box;
-    margin-top: -10px;
+    margin-top: -15px;
     margin-left: 10px;
 }
 .buttons center button{
@@ -68,10 +68,15 @@ body, html {
 }
 .body{
     background-color: rgb(24, 24, 24);
-    width: 80%;
+    width: 90%;
     height: auto;
 
     margin-left: 12.5%;
+    margin-top: -10px;
+}
+.news{
+    box-sizing: border-box;
+    width: 90%;
 }
 .download{
     font-family: 'Courier New', Courier, monospace;
