@@ -28,6 +28,7 @@ body, html {
 } 
 .versions {
     overflow-wrap: break-word;
+    background-color: black;
     border: 2px solid;
     border-color: white;
 
