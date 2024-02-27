@@ -72,4 +72,5 @@ body, html {
 .download{
     font-family: 'Courier New', Courier, monospace;
     box-sizing: border-box;
+    margin-left: 20%;
 }
