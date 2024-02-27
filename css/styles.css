@@ -36,7 +36,8 @@ body, html {
     position: absolute;
 }
 .buttons center button{
-    margin-top: -100px;
+    position: absolute;
+    top: 400px;
     border: none;
     font-family: mcFont;
     border-radius: 6px;
