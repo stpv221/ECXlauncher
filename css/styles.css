@@ -75,7 +75,6 @@ body, html {
 }
 .news{
     box-sizing: border-box;
-    margin: 10%;
     width: 100%;
 }
 .news iframe {
