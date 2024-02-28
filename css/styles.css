@@ -51,7 +51,7 @@ body, html {
 }
 .versions p {
     box-sizing: border-box;
-    margin-top: -15px;
+    margin-top: -10px;
 }
 .buttons center button{
     position: absolute;
@@ -70,8 +70,7 @@ body, html {
     background-color: rgb(24, 24, 24);
     width: 90%;
     height: auto;
-
-    margin-top: -10px;
+    margin-left: 12.5;
 }
 .news{
     box-sizing: border-box;
