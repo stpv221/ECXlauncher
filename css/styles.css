@@ -52,7 +52,6 @@ body, html {
 .versions p {
     box-sizing: border-box;
     margin-top: -15px;
-    margin-left: 10px;
 }
 .buttons center button{
     position: absolute;
@@ -76,8 +75,8 @@ body, html {
 }
 .news{
     box-sizing: border-box;
-    margin: 20px 20px 20px 20px;
-    width: 90%;
+    margin: 10% 10% 10% 10%;
+    width: 100%;
 }
 .download{
     font-family: 'Courier New', Courier, monospace;
