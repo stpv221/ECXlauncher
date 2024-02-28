@@ -78,6 +78,9 @@ body, html {
     margin: 10%;
     width: 100%;
 }
+.news iframe {
+    box-sizing: border-box;
+}
 .download{
     font-family: 'Courier New', Courier, monospace;
     box-sizing: border-box;
