@@ -73,11 +73,13 @@ body, html {
     background-color: black;
     width: 90%;
     height: auto;
-    margin-top: 200px;
+    margin-top: 150px;
     margin-left: 5%;
 }
 .card {
         border-radius: 20px;
+        border: 2px solid;
+        border-color: white;
         width: 90%;
         height: 300px;
 }
