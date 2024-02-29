@@ -78,6 +78,11 @@ body, html {
 }
 .card {
         border-radius: 20px;
+        width: 90%;
+        height: 300px;
+}
+.card img {
+    border-radius: 20px;
 }
 .download{
     color: darkblue;
