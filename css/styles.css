@@ -76,6 +76,9 @@ body, html {
     margin-top: 150px;
     margin-left: 5%;
 }
+.cards {
+    margin-left: 5%;
+}
 .card {
         border-radius: 20px;
         border: 2px solid;
