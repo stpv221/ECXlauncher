@@ -1,3 +1,4 @@
+const win = window.open();
 
 const versionName = document.getElementsByClassName("version-name");
 
