@@ -9,7 +9,3 @@ if (versionSelected == "latest_release"){
     version.innerHTML = 'u23'
     clientOpen.onclick = 'launch_latest()'
 }
-
-function launch_latest(){
-
-}
