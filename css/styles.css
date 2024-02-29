@@ -70,16 +70,10 @@ body, html {
     background-color: rgb(24, 24, 24);
     width: 90%;
     height: auto;
-    margin-left: 5%;
-}
-.news{
-    box-sizing: border-box;
-    width: 100%;
-}
-.news iframe {
-    box-sizing: border-box;
+    margin-left: 8%;
 }
 .download{
+    color: darkblue;
     text-decoration: underline;
     font-family: 'Courier New', Courier, monospace;
     box-sizing: border-box;
