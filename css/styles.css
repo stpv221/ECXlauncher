@@ -73,6 +73,7 @@ body, html {
     background-color: rgb(24, 24, 24);
     width: 90%;
     height: auto;
+    margin-top: auto;
     margin-left: 5%;
 }
 .card {
