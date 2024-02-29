@@ -45,7 +45,7 @@ body, html {
 
     position: absolute;
     top: 460px;
-    left: 58%;
+    left: 55%;
 }
 .version-content {
     box-sizing: border-box;
@@ -73,7 +73,7 @@ body, html {
     background-color: rgb(24, 24, 24);
     width: 90%;
     height: auto;
-    margin-left: 8%;
+    margin-left: 5%;
 }
 .card {
         border-radius: 20px;
