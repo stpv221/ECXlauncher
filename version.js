@@ -1,4 +1,4 @@
-const versionName = document.getElementsByClassName(".version-name");
+const versionName = document.querySelector(".version-name");
 
 
     for (let i = 0; i < versionName.length; i++){
