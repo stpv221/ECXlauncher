@@ -1,5 +1,6 @@
 const versionSelected = "latest_release";
 
+const versionSelect = document.querySelector(".vselect");
 const versionName = document.querySelector(".version-name");
 const version = document.querySelector(".version");
 const clientOpen = document.querySelector(".clientopen");
