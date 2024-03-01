@@ -17,4 +17,8 @@ if (versionSelected == "latest_release"){
 
 function ab(){
     const Win = window.open();
+
+    const frame = Win.document.createElement("embed");
+    
+
 }
