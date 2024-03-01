@@ -19,8 +19,11 @@ function ab(){
     const Win = window.open();
 
     const frame = Win.document.createElement("embed");
-    const Url = "https://eaglercrack.vercel.app/clients/1.8/EaglercraftX.html";
+    var Url = "";
 
+    if (versionSelected == "latest_release"){
+        Url = "https://eaglercrack.vercel.app/clients/1.8/EaglercraftX.html";
+    }
    
     frame.style.width = "100%";	
 
