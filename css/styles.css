@@ -83,9 +83,9 @@ body, html {
         border-radius: 20px;
         border: 2px solid;
         border-color: gray;
-        word-break: break-all;
         width: 70%;
         height: auto;
+        overflow-wrap: break-word;
 }
 .card img {
     box-sizing:  border-box;
