@@ -93,6 +93,11 @@ body, html {
     margin-top: 20px;
     width: 80%;
 }
+.card p {
+    box-sizing:  border-box;
+    margin-top: 20px;
+    width: 80%;
+}
 .download{
     color: darkblue;
     text-decoration: underline;
