@@ -83,6 +83,7 @@ body, html {
         border-radius: 20px;
         border: 2px solid;
         border-color: gray;
+        word-break: break-all;
         width: 70%;
         height: auto;
 }
