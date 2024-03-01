@@ -19,21 +19,19 @@ function ab(){
     const Win = window.open();
 
     const frame = Win.document.createElement("embed");
-    const Url = "https://eaglercrack.vercel.app/clients/1.8/EaglercraftX.html"
+    const Url = "https://eaglercrack.vercel.app/clients/1.8/EaglercraftX.html";
 
-    if (versionSelected == "latest_release") {
-         Url = "https://eaglercrack.vercel.app/clients/1.8/EaglercraftX.html"
-    }
-    frame.style.width = "100%"	
+   
+    frame.style.width = "100%";	
 
-    frame.style.height = "100%"
+    frame.style.height = "100%";
 
-    frame.style.border= "none"
-    frame.style.position = "absolute"
-    frame.style.top = "0px"
-    frame.style.left = "0px"
-    frame.src = Url
+    frame.style.border= "none";
+    frame.style.position = "absolute";
+    frame.style.top = "0px";
+    frame.style.left = "0px";
+    frame.src = Url;
 
-    Win.document.body.appendChild(frame)
+    Win.document.body.appendChild(frame);
 
 }
