@@ -8,8 +8,8 @@ body{
     src: url(/fonts/Minecrafter.Reg.ttf);
 }
 .page {
-    margin-left: 2%;
-    width: 98%;
+    margin-left: 4%;
+    width: 92%;
 }
 #banner {
     width: 100%;
@@ -31,8 +31,20 @@ body{
     height: auto;
 }
 #launch {
-    margin-left: 50%;
-    margin-top: 0;
     transform: translate(-50%, -50%);
+    margin-left: 35%;
+    margin-top: 0;
+    width: 15%;
+    padding-top: 1%;
     font-family: mcFont1;
+}
+.news {
+    margin-left: 2%;
+    width: 2px;
+    background-color: black;
+    border: none;
+}
+.news .card {
+    border-radius: 20px;
+    border: 2px solid white;
 }
