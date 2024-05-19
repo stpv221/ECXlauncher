@@ -32,11 +32,14 @@ body{
 }
 #launch {
     transform: translate(-50%, -50%);
-    margin-left: 35%;
+    margin-left: 30%;
     margin-top: 0;
     width: 15%;
     padding-top: 1%;
+    border: none;
+    border-radius: 15px;
     font-family: mcFont1;
+    font-size: x-large;
 }
 .news {
     margin-left: 2%;
