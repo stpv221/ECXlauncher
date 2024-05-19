@@ -1,6 +1,6 @@
-body, html {
+body{
     margin: 0px;
-    background-color: rgb(24, 24, 24);
+    background-color: #3f3f3f;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     width: 100%;
@@ -8,4 +8,15 @@ body, html {
 @font-face {
     font-family: mcFont;
     src: url(/fonts/Minecrafter.Reg.ttf);
+}
+#banner {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+#versionSelect {
+    margin-left: 15%;
+    width: 5%;
+    height: 4rem;
+    border: none;
 }
