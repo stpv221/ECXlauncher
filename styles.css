@@ -35,14 +35,14 @@ body{
     margin-left: 28%;
     margin-top: 0;
     width: 20%;
-    height: 3%;
+    height: 5%;
+    padding-top: 1%;
     overflow: hidden;
     background-color: #018b42;
     box-shadow: 2px 2px 2px black;
     border: none;
     border-radius: 10px;
     font-family: mcFont1;
-    font-size: x-large;
 }
 .news {
     margin-left: 2%;
